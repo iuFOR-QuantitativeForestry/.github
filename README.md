@@ -1,2 +1,1 @@
-# .github
-uFOR - Quantitative Forestry group presentation 
+# iuFOR - Quantitative Forestry group presentation 
